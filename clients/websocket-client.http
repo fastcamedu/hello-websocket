@@ -1,0 +1,2 @@
+### Simple WebSocket Request
+WEBSOCKET ws://localhost:8080/hello
